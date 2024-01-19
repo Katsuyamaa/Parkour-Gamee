@@ -13,6 +13,7 @@ public class restart : MonoBehaviour
         if (Input.GetKeyDown(teleportKey))
         {
             TeleportObjects();
+            Debug.Log("ýþýnlandý");
         }
     }
 
@@ -32,5 +33,6 @@ public class restart : MonoBehaviour
         // "player" ve "camera holder" objelerini "teleportTarget" objesinin pozisyonuna ýþýnlar
         playerObject.transform.position = teleportTarget.position;
         cameraHolderObject.transform.position = teleportTarget.position;
+        Debug.Log("ýþý");
     }
 }

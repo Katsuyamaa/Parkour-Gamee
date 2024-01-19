@@ -59,6 +59,7 @@
     <Compile Include="Assets\Scripts\Slide.cs" />
     <Compile Include="Assets\Scripts\PlayerCam.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
+    <Compile Include="Assets\Scripts\MiniMap.cs" />
     <Compile Include="Assets\Scripts\Grappling.cs" />
     <Compile Include="Assets\Scripts\restart.cs" />
     <Compile Include="Assets\Scripts\CameraMovement.cs" />
