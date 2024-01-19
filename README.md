@@ -22,14 +22,20 @@ karışıklık sağlamamak için Parentli boş objeler kullandım.
 düzenleyebilyorum.
  
 -Proje içerisinde birden fazla script kullandım, bu scriptler sırayla şu işlere yaramaktadır;
+
 -CameraMovement: Kamera pozisyonunu değiştirmek için.
+
 -Grappling: Kendi belirlediğim objelere Layer atayarak, o objelere doğru bir hook atarak 
 karakteri objeye doğru çekmesi.
+
 -MiniMap: Adındanda belli olduğu gibi canvas üzerinde bulunun karakterin yerini küçük 
 bir mapte belli etmeye yaran script.
+
 -Movement: Genel karakter haraket (yürüme, koşma, zıplama vb.) scripti.
+
 -PlayerCam: DOTween kullanarak duvarda koşma yapılırken daha gerçekçi gözükmesi için 
 kamera hareketi değiştirmek için bir script.
+
 -Restart: Kullanıcı belirlenmiş tuşa basarak Sahne üzerinde belirlenmiş objeye 
 ışınlanmasını sağlar.
 -Slide: Player’in belirlenmiş bir zeminde eğilerek kaymasını sağlar.
