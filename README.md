@@ -1,23 +1,34 @@
 
 KIRKLARELİ ÜNİVERSİTESİ
 PINARHİSAR MESLEK YÜKSEKOKULU
+
 BİLGİSAYAR TEKNOLOJİLERİ BÖLÜMÜ
+
 BİLGİSAYAR PROGRAMCILIĞI PROGRAMI
+
 PROJE UYGULAMARI
+
 Yasin Cay
+
 ÖĞRETİM ELEMANI: SELÇUK ÖZKAN
+
 KIRKLARELİ
+
 01-2024
+
 Projenin Konusu;
 Projenin konusu aslında basit bir parkur oyunu fakat bu basit parkur oyunun farklı
 mekanikler ile derleyip oynamak sadece yürüyerek ve zıplayarak parkur yapmak kadar 
 sıkıcı değil.
+
 Projede Kullandığım Programlar;
 - Unity Game Engine (Oyunu tasarlamak ve çalıştırmak için bir Oyun Motoru)
 - Unity Asset Store (Hazır assetler kullanarak map desing için zaman kazandım)
-Projede İçerisinden Ekran Görüntüleri;
+
+
 -Hiyerarşi oyun içerisinde kullanmış olduğum bütün Gameobjectleri ve Hiyerarşi üzerinde 
 karışıklık sağlamamak için Parentli boş objeler kullandım.
+
 -İnspector panelinde ise Objelere atamış olduğum scriptleri yada başka componentleri
 düzenleyebilyorum.
  
