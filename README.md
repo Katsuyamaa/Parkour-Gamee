@@ -39,5 +39,7 @@ kamera hareketi değiştirmek için bir script.
 -Restart: Kullanıcı belirlenmiş tuşa basarak Sahne üzerinde belirlenmiş objeye 
 ışınlanmasını sağlar.
 -Slide: Player’in belirlenmiş bir zeminde eğilerek kaymasını sağlar.
+
 -WallRunning: Playerin belirlenmiş düz duvarlar üzerinde belirli süre koşabilmesini sağlar.
+
 -Assets: Genel olarka kullanmış olduğum Hazır Assets’ler ve dosyalar.
